@@ -1,4 +1,4 @@
-# Model defined records
+# Model Defined Records
 
 A beacon instance will allow to retrieve data - in contrast to the aggregated
 boolean and count responses - if it supports `record` granularity. The type of
