@@ -1,4 +1,4 @@
-# beacon-v2-Models
+# Beacon v2 Models
 
 ## Introduction
 
